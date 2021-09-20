@@ -1,6 +1,6 @@
 # Hi there 👋
 ## My name is Roberto 📛
-## I’m currently studying system and computer engineering 💻🖥️
+## I’m currently a system and computer engineer 💻🖥️
 
 <!--
 **R0BERT01991/R0BERT01991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
