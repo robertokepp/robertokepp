@@ -1,7 +1,6 @@
 # Hi there 👋
 ## My name is Roberto 📛
 ### I’m a System and Computer Engineer 💻
-### How to reach me 📫: robertokepp@hotmail.com
 #### My CV 📝: https://robertokepp.github.io/
 
 <!--
