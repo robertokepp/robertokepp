@@ -1,7 +1,6 @@
-# Hi there 👋
-## My name is Roberto 📛
-### I’m a System and Computer Engineer 💻
-#### My CV 📝: https://robertokepp.github.io/
+# Hi there 👋 My name is Roberto 📛
+## I’m a System and Computer Engineer 💻
+### My CV 📝: https://robertokepp.github.io/
 
 <!--
 **R0BERT01991/R0BERT01991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
