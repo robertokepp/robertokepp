@@ -1,7 +1,8 @@
 # Hi there 👋
 ## My name is Roberto 📛
 ### I’m a System and Computer Engineer 💻
-#### My page is 📝: https://robertokepp.github.io/
+#### I’m currently working on <img style="width:50; height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
+#### My page is 📝: [GitHub Page](https://robertokepp.github.io).
 
 <!--
 **R0BERT01991/R0BERT01991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
