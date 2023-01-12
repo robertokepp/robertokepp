@@ -1,20 +1,23 @@
-# Hi there 👋
-## My name is Roberto 📛
-### I’m a System and Computer Engineer 💻
-#### I’m currently working on <img style="width:50; height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
-#### My page is 📝: [GitHub Page](https://robertokepp.github.io).
+## Hi there 👋
 
-<!--
-**R0BERT01991/R0BERT01991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Roberto 📛
 
-Here are some ideas to get you started:
+### I am a System and Computer Engineer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am a graduate of the Pontificia Universidad Católica Madre y Maestra <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif">
+
+### I have certifications from:
+
+* #### SDQ Training Center <img style="height:40px; vertical-align: middle;" src="https://media.licdn.com/dms/image/C4E0BAQFm04bZsiHGBg/company-logo_200_200/0/1579107331432?e=2147483647&v=beta&t=14-TMISkjBEaYiG7RA8hsRg6QdYj8akST8l6g8zQBLQ">
+
+* #### Scrum Institute <img style="height:40px; vertical-align: middle;" src="https://www.scrum-institute.org/images2/scrum_institute_logo.png">
+
+* #### Automation Anywhere <img style="height:40px; vertical-align: middle;" src="https://www.automationanywhere.com/sites/default/files/images/default-images/logo-aa-new.svg">
+
+* #### Free Code Camp <img style="height:40px; vertical-align: middle;" src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg">
+
+* #### Udemy <img style="height:40px; vertical-align: middle;" src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo-thumbnail.png">
+
+### I’m currently working on GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
+
+### My page is 📝: [GitHub Page](https://robertokepp.github.io).
