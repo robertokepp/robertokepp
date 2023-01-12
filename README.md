@@ -16,7 +16,7 @@
 
 * #### Free Code Camp <img style="height:40px; vertical-align: middle;" src="https://d33wubrfki0l68.cloudfront.net/bbfa33a202e8612d49b6c1ed05c1fdd8e4001566/bbdd1/img/fcc_secondary_small.svg">
 
-* #### Udemy <img style="height:40px; vertical-align: middle;" src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo-thumbnail.png">
+* #### Udemy <img style="height:40px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png">
 
 ### I’m currently working on GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
 
