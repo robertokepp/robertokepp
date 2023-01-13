@@ -1,10 +1,18 @@
-## Hi there 👋
+## Introduction
+
+### Hi there 👋
 
 ### My name is Roberto 📛
+
+
+## Education
 
 ### I am a System and Computer Engineer 💻
 
 ### I am a graduate of the Pontificia Universidad Católica Madre y Maestra <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif">
+
+
+## Certifications
 
 ### I have certifications from:
 
@@ -16,8 +24,12 @@
 
 * #### Scrum Institute <img style="height:40px; vertical-align: middle;" src="https://www.scrum-institute.org/images2/scrum_institute_logo.png">
 
-* #### Udemy <img style="height:40px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png">
+* ### Udemy <img style="height:40px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png">
+
+## Experience
 
 ### I’m currently working on GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
+
+## Page
 
 ### My page is 📝: [GitHub Page](https://robertokepp.github.io).
