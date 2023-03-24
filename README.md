@@ -1,21 +1,35 @@
 ## Introduction
 
-### Hi there 👋
+* ### Hi there 👋
 
-### My name is Roberto 📛
+* ### My name is Roberto 📛
 
 
 ## Education
 
-### I am a System and Computer Engineer 💻
+* ### I am a System and Computer Engineer 💻
 
-### I am a graduate of the Pontificia Universidad Católica Madre y Maestra <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif">
+* ### I am a graduate of the Pontificia Universidad Católica Madre y Maestra <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif">
 
 ## Skills
 
-### My skills are:
+### I have skills with:
 
-* ### Git <img style="height:40px; vertical-align: middle;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
+* ### Git <img style="height:30px; vertical-align: middle;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+
+* ### SQL <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
+
+* ### C# <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+
+* ### Java <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png">
+
+* ### HTML5 <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png">
+
+* ### CSS3 <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png">
+
+* ### Angular <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png">
+
+* ### Ionic <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png">
 
 ## Certifications
 
@@ -33,7 +47,9 @@
 
 ## Experience
 
-### I’m currently working on GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
+### I Work In: 
+
+* ### GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
 
 ## Page
 
