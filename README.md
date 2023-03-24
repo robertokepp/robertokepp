@@ -11,6 +11,11 @@
 
 ### I am a graduate of the Pontificia Universidad Católica Madre y Maestra <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif">
 
+## Skills
+
+### My skills are:
+
+* ### Git <img style="height:40px; vertical-align: middle;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> 
 
 ## Certifications
 
