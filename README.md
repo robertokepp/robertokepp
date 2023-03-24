@@ -47,7 +47,7 @@
 
 ## Experience
 
-### I Work In: 
+### I Work in: 
 
 * ### GBM Dominicana <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg">
 
