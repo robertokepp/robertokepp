@@ -1,15 +1,16 @@
 ## Introduction
 
-* ### Hi there 👋
+* ### 👋 Hi there
 
-* ### My name is Roberto 📛
+* ### 📛 My name is Roberto
 
 
 ## Education
 
-* ### I am a System and Computer Engineer 💻
+* ### 💻 I am a System and Computer Engineer
 
 * ### <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+
 
 ## Skills
 
@@ -31,6 +32,7 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://cdn.iconscout.com/icon/free/png-256/ionic-3521510-2945013.png?f=webp&w=128"> Ionic
 
+
 ## Certifications
 
 ### I have certifications from:
@@ -45,11 +47,13 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png"> Udemy
 
+
 ## Experience
 
 ### I Work in: 
 
 * ### <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg"> Dominicana
+
 
 ## Page
 
