@@ -64,4 +64,4 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://assets.codepen.io/1584356/codepen.png"> [CodePen](https://codepen.io/robertokepp)
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png"> [Curriculum](https://robertokepp.github.io) 
+* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png"> [Canva](https://robertokepp.my.canva.site) 
