@@ -39,7 +39,7 @@
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://media.licdn.com/dms/image/C4E0BAQFm04bZsiHGBg/company-logo_200_200/0/1579107331432?e=2147483647&v=beta&t=14-TMISkjBEaYiG7RA8hsRg6QdYj8akST8l6g8zQBLQ"> SDQ Training Center 
 
-* #### <img style="height:25px; vertical-align: middle;" src="[https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg](https://miro.medium.com/v2/resize:fit:2400/1*B6_f-_SxscJ9FCuIjOrQAQ.jpeg)"> Free Code Camp
+* #### <img style="height:25px; vertical-align: middle;" src="https://global.discourse-cdn.com/freecodecamp/original/3X/0/d/0dfd4cee71326b4221fa2894f3429390af28c481.png"> Free Code Camp
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1046888625424687104/G-XuXLML_400x400.jpg"> Automation Anywhere 
 
@@ -60,8 +60,8 @@
 ### My pages are 📝: 
 * ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> [LinkedIn](https://linkedin.com/in/robertokepp)
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png?20180806170715"> [Github](https://github.com/robertokepp) 
+* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"> [Github](https://github.com/robertokepp) 
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://assets.codepen.io/1584356/codepen.png"> [CodePen](https://codepen.io/robertokepp)
+* ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"> [CodePen](https://codepen.io/robertokepp)
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png"> [Canva](https://robertokepp.my.canva.site) 
