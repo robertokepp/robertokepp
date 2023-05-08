@@ -28,6 +28,8 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"> CSS3
 
+* ### <img style="height:25px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"> Javascript
+
 * ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"> Angular
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://cdn.iconscout.com/icon/free/png-256/ionic-3521510-2945013.png?f=webp&w=128"> Ionic
