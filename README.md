@@ -39,7 +39,7 @@
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://media.licdn.com/dms/image/C4E0BAQFm04bZsiHGBg/company-logo_200_200/0/1579107331432?e=2147483647&v=beta&t=14-TMISkjBEaYiG7RA8hsRg6QdYj8akST8l6g8zQBLQ"> SDQ Training Center 
 
-* #### <img style="height:25px; vertical-align: middle;" src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg"> Free Code Camp
+* #### <img style="height:25px; vertical-align: middle;" src="[https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg](https://miro.medium.com/v2/resize:fit:2400/1*B6_f-_SxscJ9FCuIjOrQAQ.jpeg)"> Free Code Camp
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1046888625424687104/G-XuXLML_400x400.jpg"> Automation Anywhere 
 
