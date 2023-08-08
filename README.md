@@ -18,9 +18,9 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> Git
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"> SQL
+* ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1202/1202701.png"> SQL
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> C# 
+* ### <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> C# 
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png"> Java
 
