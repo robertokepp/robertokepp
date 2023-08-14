@@ -1,3 +1,26 @@
+# Welcome
+
+<div align="center">
+  <img style="height:200px; text-align: center;" src="https://github.com/robertokepp.png"/>
+</div>
+
+</br>
+
+<div align="center">
+  <a href="https://github.com/robertokepp">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+  <a href="https://codepen.io/robertokepp">
+    <img src="https://img.shields.io/badge/codepen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
+  </a>
+  <a href="https://robertokepp.my.canva.site">
+    <img src="https://img.shields.io/badge/canva-black?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Badge"/>
+  </a>
+    <a href="https://linkedin.com/in/robertokepp">
+    <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+</div>
+  
 ## Introduction
 
 * ### 👋 Hi there
@@ -16,23 +39,23 @@
 
 ### I have skills with:
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> Git
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> Git
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1202/1202701.png"> SQL
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> MySQL
 
-* ### <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png"> C# 
+* ### <img style="height:30px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> C# 
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://i.pinimg.com/originals/79/5e/bb/795ebb5f4a470cd7242136237f61fc53.png"> Java
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> Java
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> HTML5
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> HTML5
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"> CSS3
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> CSS3
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"> Javascript
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> Javascript
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"> Angular
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> Angular
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://cdn.iconscout.com/icon/free/png-256/ionic-3521510-2945013.png?f=webp&w=128"> Ionic
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"> Ionic
 
 
 ## Certifications
@@ -60,10 +83,11 @@
 ## Page
 
 ### My pages are 📝: 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"> [LinkedIn](https://linkedin.com/in/robertokepp)
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"> [Github](https://github.com/robertokepp) 
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"> [CodePen](https://codepen.io/robertokepp)
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Canva_logo.png"> [Canva](https://robertokepp.my.canva.site) 
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> [Canva](https://robertokepp.my.canva.site)
+ 
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"> [LinkedIn](https://linkedin.com/in/robertokepp)
