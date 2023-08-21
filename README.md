@@ -20,6 +20,12 @@
     <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
   </a>
 </div>
+
+</br>
+
+<div align="center">
+  <img style="height:25px; vertical-align: middle;" src="https://img.shields.io/badge/Programmer-Badge-green">  
+</div>
   
 ## Introduction
 
@@ -27,12 +33,13 @@
 
 * ### 📛 My name is Roberto
 
-
+* ### 💻 I am a Programmer 
+  
 ## Education
 
-* ### 💻 I am a System and Computer Engineer
+* ### 🖥️ I am a System and Computer Engineer
 
-* ### <img style="height:40px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+* ### <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
 
 
 ## Skills
@@ -77,7 +84,7 @@
 
 ### I Work in: 
 
-* ### <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg"> Dominicana
+* ### <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg"> GBM Dominicana
 
 
 ## Page
