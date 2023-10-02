@@ -39,7 +39,7 @@
 
 * ### 🖥️ I am a System and Computer Engineer
 
-* ### <img style="height:30px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/EscudoPucmm.gif/800px-EscudoPucmm.gif"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+* ### <img style="height:30px; vertical-align: middle;" src="https://www.pucmm.edu.do/recursos/PublishingImages/Paginas/logos/Logo%20PUCMM%20%28Color%29.png"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
 
 
 ## Skills
