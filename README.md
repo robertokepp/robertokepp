@@ -39,7 +39,7 @@
 
 * ### 🖥️ I am a System and Computer Engineer
 
-* ### <img style="height:30px; vertical-align: middle;" src="https://www.pucmm.edu.do/recursos/PublishingImages/Paginas/logos/Logo%20PUCMM%20%28Color%29.png"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+* ### <img style="height:25px; vertical-align: middle;" src="https://www.pucmm.edu.do/recursos/PublishingImages/Paginas/logos/Logo%20PUCMM%20%28Color%29.png"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
 
 
 ## Skills
@@ -84,7 +84,7 @@
 
 ### I Work in: 
 
-* ### <img style="height:40px; vertical-align: middle;" src="https://www.gbm.net/wp-content/themes/baum-child/assets/images/logo-default.svg"> GBM Dominicana
+* ### <img style="height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/uploads/2023/07/logo-de-GBM.svg"> GBM Dominicana
 
 
 ## Page
