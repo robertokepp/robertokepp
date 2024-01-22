@@ -39,7 +39,7 @@
 
 * ### 🖥️ I am a System and Computer Engineer
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://scontent.fhex5-2.fna.fbcdn.net/v/t39.30808-1/398823458_738726311629030_4963466485231434142_n.jpg?stp=dst-jpg_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=596444&_nc_ohc=qeCJYh8XsAsAX-XvCQJ&_nc_ht=scontent.fhex5-2.fna&oh=00_AfCN1VSSxWzYX_w26bzv09UVX88w3JJpy8RihTyeqtFwQQ&oe=65A8F9D1"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+* ### <img style="height:25px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SnpBP0R5CrXV8TdUd7HoNgjGxVrgis6cUxlGPP2tbHYGUedBobyrGHbgfaA1Cp7ZMwo&usqp=CAU"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
 
 
 ## Skills
