@@ -48,7 +48,7 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"> Git
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"> MySQL
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg"> SQL
 
 * ### <img style="height:30px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> C# 
 
