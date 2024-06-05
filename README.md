@@ -54,11 +54,15 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> Java
 
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg"> Quarkus
+
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> HTML5
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> CSS3
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> Javascript
+
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> Typescript
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> Angular
 
