@@ -81,7 +81,7 @@
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://mir-s3-cdn-cf.behance.net/user/115/506a80486420707.5e3af64ab292c.jpg"> Scrum Institute
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png"> Udemy
+* #### <img style="height:25px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png"> Udemy
 
 
 ## Experience
@@ -89,6 +89,8 @@
 ### I Work in: 
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/uploads/2023/07/logo-de-GBM.svg"> GBM Dominicana
+  
+* ### <img style="height:25px; vertical-align: middle;" src="https://scontent.fsti4-1.fna.fbcdn.net/v/t39.30808-6/458372654_907345331427813_9020444141185832329_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GZ1aBVautsAQ7kNvgErBkrr&_nc_oc=AdhjQY30JyOFxR31gaRYHo54zZEQiXha6kgD5ecMtRWW9k2L2wkVs4ElbPHGXWDNA5s&_nc_zt=23&_nc_ht=scontent.fsti4-1.fna&_nc_gid=AuQJhE_wSzHY5If57SJRZKE&oh=00_AYCfP3JTpJy-_913LapgdgRbcJD7jCNL1i7xV2j6X-3ULw&oe=677382A6"> Banreservas
 
 
 ## Page
