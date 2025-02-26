@@ -39,7 +39,7 @@
 
 * ### 🖥️ I am a System and Computer Engineer
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_SnpBP0R5CrXV8TdUd7HoNgjGxVrgis6cUxlGPP2tbHYGUedBobyrGHbgfaA1Cp7ZMwo&usqp=CAU"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
+* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/EscudoPucmm.gif"> I am a graduate of the Pontificia Universidad Católica Madre y Maestra
 
 
 ## Skills
@@ -73,13 +73,13 @@
 
 ### I have certifications from:
 
-* #### <img style="height:25px; vertical-align: middle;" src="https://media.licdn.com/dms/image/C4E0BAQFm04bZsiHGBg/company-logo_200_200/0/1579107331432?e=2147483647&v=beta&t=14-TMISkjBEaYiG7RA8hsRg6QdYj8akST8l6g8zQBLQ"> SDQ Training Center 
+* #### <img style="height:25px; vertical-align: middle;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTLjHChtEcNXXxpqQqZgDLuQbXn9MI0yJ4-g&s"> SDQ Training Center 
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://global.discourse-cdn.com/freecodecamp/original/3X/0/d/0dfd4cee71326b4221fa2894f3429390af28c481.png"> Free Code Camp
 
-* #### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1046888625424687104/G-XuXLML_400x400.jpg"> Automation Anywhere 
+* #### <img style="height:25px; vertical-align: middle;" src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e006bff27734dda4cfa1d_f83c25c2-0d24-57b2-8d5e-e154705679ae.svg"> Automation Anywhere 
 
-* #### <img style="height:25px; vertical-align: middle;" src="https://mir-s3-cdn-cf.behance.net/user/115/506a80486420707.5e3af64ab292c.jpg"> Scrum Institute
+* #### <img style="height:25px; vertical-align: middle;" src="https://www.scrum-institute.org/images2/scrum_institute_logo.png"> Scrum Institute
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png"> Udemy
 
@@ -90,7 +90,7 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/uploads/2023/07/logo-de-GBM.svg"> GBM Dominicana
   
-* ### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1832039449535909888/nGUJXafw_400x400.jpg"> Banreservas
+* ### <img style="height:25px; vertical-align: middle;" src="https://play-lh.googleusercontent.com/Fc7_jT5rLt0FjdHpY0wsLuVEYWS7vjlK243C2XaixylfJs2mJVrwSXlaWTfXMdtKlA=w240-h480"> Banreservas
 
 
 ## Page
