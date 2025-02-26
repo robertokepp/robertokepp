@@ -90,7 +90,7 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/uploads/2023/07/logo-de-GBM.svg"> GBM Dominicana
   
-* ### <img style="height:25px; vertical-align: middle;" src="https://scontent.fsti4-1.fna.fbcdn.net/v/t39.30808-6/458372654_907345331427813_9020444141185832329_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=GZ1aBVautsAQ7kNvgErBkrr&_nc_oc=AdhjQY30JyOFxR31gaRYHo54zZEQiXha6kgD5ecMtRWW9k2L2wkVs4ElbPHGXWDNA5s&_nc_zt=23&_nc_ht=scontent.fsti4-1.fna&_nc_gid=AuQJhE_wSzHY5If57SJRZKE&oh=00_AYCfP3JTpJy-_913LapgdgRbcJD7jCNL1i7xV2j6X-3ULw&oe=677382A6"> Banreservas
+* ### <img style="height:25px; vertical-align: middle;" src="https://pbs.twimg.com/profile_images/1832039449535909888/nGUJXafw_400x400.jpg"> Banreservas
 
 
 ## Page
