@@ -83,16 +83,6 @@
 
 * #### <img style="height:25px; vertical-align: middle;" src="https://logos-world.net/wp-content/uploads/2021/11/Udemy-Logo-700x394.png"> Udemy
 
-
-## Experience
-
-### I Work in: 
-
-* ### <img style="height:25px; vertical-align: middle;" src="https://www.gbm.net/wp-content/uploads/2023/07/logo-de-GBM.svg"> GBM Dominicana
-  
-* ### <img style="height:25px; vertical-align: middle;" src="https://play-lh.googleusercontent.com/Fc7_jT5rLt0FjdHpY0wsLuVEYWS7vjlK243C2XaixylfJs2mJVrwSXlaWTfXMdtKlA=w240-h480"> Banreservas
-
-
 ## Page
 
 ### My pages are 📝: 
