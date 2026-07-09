@@ -89,7 +89,7 @@
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> [Github](https://github.com/robertokepp) 
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"> [CodePen](https://codepen.io/robertokepp)
+* ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg"> [CodePen](https://codepen.io/robertokepp)
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"> [Canva](https://robertokepp.my.canva.site)
  
