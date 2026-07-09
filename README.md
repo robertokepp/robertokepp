@@ -87,7 +87,7 @@
 
 ### My pages are 📝: 
 
-* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"> [Github](https://github.com/robertokepp) 
+* ### <img style="height:25px; vertical-align: middle;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1280px-Octicons-mark-github.svg.png?_=20180806170715"> [Github](https://github.com/robertokepp) 
 
 * ### <img style="height:25px; vertical-align: middle;" src="https://cdn-icons-png.flaticon.com/512/1626/1626319.png"> [CodePen](https://codepen.io/robertokepp)
 
